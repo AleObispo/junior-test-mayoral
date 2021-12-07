@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "name": "Polo manga larga contrastes chico",
+        "precio1": "18,99",
+        "precio2": "15,19",
+        "parra": "mas colores",
+        "imagen": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-larga-contrastes-chico_id_11-07145-071-L-4.JPG?v=20210505101201"
+        
+    },
+    {
+        "id": 2,
+        "name": "Polo manga larga contrastes chico",
+        "precio1": "",
+        "precio2": "20,99",
+        "parra": "mas colores",
+        "imagen": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-larga-contrastes-chico_id_11-07145-073-L-4.JPG?v=20210921061532"
+        
+    },
+    {
+        "id": 3,
+        "name": "Polo manga larga contrastes chico",
+        "precio1": "18,99",
+        "precio2": "15,19",
+        "parra": "mas colores",
+        "imagen": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-larga-contrastes-chico_id_11-07145-072-L-4.JPG?v=20210505101216"
+        
+    },
+    {
+        "id": 4,
+        "name": "Polo manga larga rayas chico",
+        "precio1": "",
+        "precio2": "16,99",
+        "parra": "",
+        "imagen": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-larga-rayas-chico_id_11-07148-085-L-4.JPG?v=20210915130505"
+        
+    },
+    {
+        "id": 5,
+        "name": "Polo manga larga camuflaje estampa",
+        "precio1": "18,99",
+        "precio2": "15,19",
+        "parra": "mas colores",
+        "imagen": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-larga-camuflaje-chico_id_11-07146-031-L-4.JPG?v=20210505101206"
+        
+    },
+    {
+        "id": 6,
+        "name": "Polo manga larga ecofriends chico",
+        "precio1": "18,99",
+        "precio2": "15,19",
+        "parra": "mas colores",
+        "imagen": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-larga-ecofriends-chico_id_11-07147-080-L-4.JPG?v=20210915130506"
+        
+    },
+    {
+        "id": 7,
+        "name": "Polo manga larga rayas chico",
+        "precio1": "",
+        "precio2": "20,99",
+        "parra": "mas colores",
+        "imagen": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-larga-rayas-chico_id_11-07148-085-L-4.JPG?v=20210915130505"
+        
+    },
+    {
+        "id": 8,
+        "name": "Polo manga cuello mao chico",
+        "precio1": "18,99",
+        "precio2": "15,19",
+        "parra": "mas colores",
+        "imagen": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-larga-cuello-mao-chico_id_11-57125-700-L-4.JPG?v=20210824152659"
+        
+    },
+    {
+        "id": 9,
+        "name": "Polo manga larga cuello mao chico",
+        "precio1": "",
+        "precio2": "16,99",
+        "parra": "mas colores",
+        "imagen": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-larga-cuello-mao-bandas-chico_id_11-57130-700-L-4.JPG?v=20210824152658"
+        
+    },
+    {
+        "id": 10,
+        "name": "Polo manga larga rayas chico",
+        "precio1": "18,99",
+        "precio2": "15,19",
+        "parra": "mas colores",
+        "imagen": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-larga-rayas-chico_id_11-07148-084-L-4.JPG?v=20210505101214"
+        
+    }
+
+]
