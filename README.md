@@ -1,5 +1,5 @@
 # PROJECT NAME
-Junior Test
+Junior Test Mayoral
 
 Aplicacion web se puede visualizar un listado de prendas de la empresa Mayoral; buscar por descripcion de prendas.
 
@@ -31,7 +31,6 @@ LinkedIn: https://www.linkedin.com/in/alejandro-obispo-a222931b7/
 
 [Apache License 2.0](https://opensource.org/licenses/Apache-2.0)
 
-## Codefactor
 
 
 
